@@ -16,6 +16,7 @@ out
 .project
 .classpath
 .settings
+bin/
 
 # editors
 *.sublime-project
